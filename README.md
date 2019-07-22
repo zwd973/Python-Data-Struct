@@ -1,2 +1,2 @@
 # Python-Data-Struct
-This is only for testing.
+This is not only for testing.
